@@ -43,15 +43,6 @@ This project aims to analyze pizza sales data using SQL queries. The dataset inc
 
 The dataset used for this analysis includes information about orders, pizzas, sizes, prices, and timestamps. Ensure that the dataset is properly formatted and imported into your SQL database before running the queries.
 
-## Contributors
+## Contributor
 
-- [Your Name]
-- [Contributor 2]
-- [Contributor 3]
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-Feel free to customize this template according to your project's specific requirements and add any additional information you find relevant.
+- [Shubham Aware]
