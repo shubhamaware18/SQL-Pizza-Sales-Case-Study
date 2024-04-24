@@ -1,5 +1,5 @@
 # Pizza Sales Analysis Project
-
+![Pizza Sales Anlysis(EDA)](https://github.com/shubhamaware18/SQL-Pizza-Sales-Case-Study/blob/main/artifacts/image.png)
 ## Overview
 
 This project aims to analyze pizza sales data using SQL queries. The dataset includes information about orders, pizza types, sizes, prices, and timestamps. By querying this data, we can derive insights into customer preferences, revenue generation, and sales trends.
@@ -36,6 +36,9 @@ This project aims to analyze pizza sales data using SQL queries. The dataset inc
 ## Usage
 
 1. Clone this repository.
+```bash
+   git clone https://github.com/shubhamaware18/SQL-Pizza-Sales-Case-Study.git
+```
 2. Import the dataset into your SQL database.
 3. Execute the SQL queries to perform various analyses on the pizza sales data.
 
